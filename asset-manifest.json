@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TexUtilsss/static/css/main.abd64e84.css",
+    "main.js": "/TexUtilsss/static/js/main.29a6b62c.js",
+    "index.html": "/TexUtilsss/index.html",
+    "main.abd64e84.css.map": "/TexUtilsss/static/css/main.abd64e84.css.map",
+    "main.29a6b62c.js.map": "/TexUtilsss/static/js/main.29a6b62c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.29a6b62c.js"
+  ]
+}
